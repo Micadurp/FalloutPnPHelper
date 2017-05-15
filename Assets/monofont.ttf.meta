@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 7c27467d42ea4a646a95c7a9bda5b85e
+timeCreated: 1494866614
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Monofonto
+  fontNames:
+  - Monofonto
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
