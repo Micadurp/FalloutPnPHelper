@@ -241,8 +241,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 114930342051868584, guid: 76642b002d1fe284686f9e0665d721ad,
-          type: 2}
+      - m_Target: {fileID: 114255022539188780}
         m_MethodName: set_enabled
         m_Mode: 6
         m_Arguments:
@@ -253,8 +252,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 1
         m_CallState: 2
-      - m_Target: {fileID: 114974742060076984, guid: 3d609ab75cd126540a8a09c01d361e75,
-          type: 2}
+      - m_Target: {fileID: 114503924888435218}
         m_MethodName: set_enabled
         m_Mode: 6
         m_Arguments:
@@ -265,8 +263,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 1
         m_CallState: 2
-      - m_Target: {fileID: 114287998463444368, guid: 64d021c5118bc534d9c1cc4678327da0,
-          type: 2}
+      - m_Target: {fileID: 114063221599769402}
         m_MethodName: set_enabled
         m_Mode: 6
         m_Arguments:
@@ -288,8 +285,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 114825475647374526, guid: eb239d2fede13cb4ea46174a8c4fc15a,
-          type: 2}
+      - m_Target: {fileID: 114527294498800164}
         m_MethodName: set_enabled
         m_Mode: 6
         m_Arguments:
@@ -341,8 +337,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 114930342051868584, guid: 76642b002d1fe284686f9e0665d721ad,
-          type: 2}
+      - m_Target: {fileID: 114255022539188780}
         m_MethodName: set_enabled
         m_Mode: 6
         m_Arguments:
@@ -353,8 +348,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 1
         m_CallState: 2
-      - m_Target: {fileID: 114974742060076984, guid: 3d609ab75cd126540a8a09c01d361e75,
-          type: 2}
+      - m_Target: {fileID: 114503924888435218}
         m_MethodName: set_enabled
         m_Mode: 6
         m_Arguments:
@@ -376,8 +370,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 114787530000553718, guid: 03c23e8761b8ad042b03cbea2e381268,
-          type: 2}
+      - m_Target: {fileID: 114051653657857552}
         m_MethodName: set_enabled
         m_Mode: 6
         m_Arguments:
@@ -388,8 +381,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 1
         m_CallState: 2
-      - m_Target: {fileID: 114825475647374526, guid: eb239d2fede13cb4ea46174a8c4fc15a,
-          type: 2}
+      - m_Target: {fileID: 114527294498800164}
         m_MethodName: set_enabled
         m_Mode: 6
         m_Arguments:
@@ -485,8 +477,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 114974742060076984, guid: 3d609ab75cd126540a8a09c01d361e75,
-          type: 2}
+      - m_Target: {fileID: 114503924888435218}
         m_MethodName: set_enabled
         m_Mode: 6
         m_Arguments:
@@ -497,8 +488,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 1
         m_CallState: 2
-      - m_Target: {fileID: 114287998463444368, guid: 64d021c5118bc534d9c1cc4678327da0,
-          type: 2}
+      - m_Target: {fileID: 114063221599769402}
         m_MethodName: set_enabled
         m_Mode: 6
         m_Arguments:
@@ -509,8 +499,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 1
         m_CallState: 2
-      - m_Target: {fileID: 114787530000553718, guid: 03c23e8761b8ad042b03cbea2e381268,
-          type: 2}
+      - m_Target: {fileID: 114051653657857552}
         m_MethodName: set_enabled
         m_Mode: 6
         m_Arguments:
@@ -521,8 +510,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 1
         m_CallState: 2
-      - m_Target: {fileID: 114825475647374526, guid: eb239d2fede13cb4ea46174a8c4fc15a,
-          type: 2}
+      - m_Target: {fileID: 114527294498800164}
         m_MethodName: set_enabled
         m_Mode: 6
         m_Arguments:
@@ -618,8 +606,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 114930342051868584, guid: 76642b002d1fe284686f9e0665d721ad,
-          type: 2}
+      - m_Target: {fileID: 114255022539188780}
         m_MethodName: set_enabled
         m_Mode: 6
         m_Arguments:
@@ -641,8 +628,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 114287998463444368, guid: 64d021c5118bc534d9c1cc4678327da0,
-          type: 2}
+      - m_Target: {fileID: 114063221599769402}
         m_MethodName: set_enabled
         m_Mode: 6
         m_Arguments:
@@ -653,8 +639,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 1
         m_CallState: 2
-      - m_Target: {fileID: 114787530000553718, guid: 03c23e8761b8ad042b03cbea2e381268,
-          type: 2}
+      - m_Target: {fileID: 114051653657857552}
         m_MethodName: set_enabled
         m_Mode: 6
         m_Arguments:
@@ -665,8 +650,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 1
         m_CallState: 2
-      - m_Target: {fileID: 114825475647374526, guid: eb239d2fede13cb4ea46174a8c4fc15a,
-          type: 2}
+      - m_Target: {fileID: 114527294498800164}
         m_MethodName: set_enabled
         m_Mode: 6
         m_Arguments:
@@ -677,17 +661,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 1
         m_CallState: 2
-      - m_Target: {fileID: 0}
-        m_MethodName: 
-        m_Mode: 6
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 0
     m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
       Culture=neutral, PublicKeyToken=null
 --- !u!114 &114527294498800164
@@ -729,8 +702,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 114930342051868584, guid: 76642b002d1fe284686f9e0665d721ad,
-          type: 2}
+      - m_Target: {fileID: 114255022539188780}
         m_MethodName: set_enabled
         m_Mode: 6
         m_Arguments:
@@ -741,8 +713,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 1
         m_CallState: 2
-      - m_Target: {fileID: 114974742060076984, guid: 3d609ab75cd126540a8a09c01d361e75,
-          type: 2}
+      - m_Target: {fileID: 114503924888435218}
         m_MethodName: set_enabled
         m_Mode: 6
         m_Arguments:
@@ -753,8 +724,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 1
         m_CallState: 2
-      - m_Target: {fileID: 114287998463444368, guid: 64d021c5118bc534d9c1cc4678327da0,
-          type: 2}
+      - m_Target: {fileID: 114063221599769402}
         m_MethodName: set_enabled
         m_Mode: 6
         m_Arguments:
@@ -765,8 +735,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 1
         m_CallState: 2
-      - m_Target: {fileID: 114787530000553718, guid: 03c23e8761b8ad042b03cbea2e381268,
-          type: 2}
+      - m_Target: {fileID: 114051653657857552}
         m_MethodName: set_enabled
         m_Mode: 6
         m_Arguments:
