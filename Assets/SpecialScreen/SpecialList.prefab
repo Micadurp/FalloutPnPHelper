@@ -24,7 +24,7 @@ GameObject:
   - component: {fileID: 114923481220569300}
   m_Layer: 5
   m_Name: InputField
-  m_TagString: Untagged
+  m_TagString: SpecialsScreen
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -41,7 +41,7 @@ GameObject:
   - component: {fileID: 114270207869598460}
   m_Layer: 5
   m_Name: Text
-  m_TagString: Untagged
+  m_TagString: SpecialsScreen
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -59,7 +59,7 @@ GameObject:
   - component: {fileID: 114412986720242218}
   m_Layer: 5
   m_Name: InputField
-  m_TagString: Untagged
+  m_TagString: SpecialsScreen
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -76,7 +76,7 @@ GameObject:
   - component: {fileID: 114970474565039572}
   m_Layer: 5
   m_Name: IntPanel
-  m_TagString: Untagged
+  m_TagString: SpecialsScreen
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -93,7 +93,7 @@ GameObject:
   - component: {fileID: 114162660300041900}
   m_Layer: 5
   m_Name: StrPanel
-  m_TagString: Untagged
+  m_TagString: SpecialsScreen
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -110,7 +110,7 @@ GameObject:
   - component: {fileID: 114083856431112056}
   m_Layer: 5
   m_Name: Text
-  m_TagString: Untagged
+  m_TagString: SpecialsScreen
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -127,7 +127,7 @@ GameObject:
   - component: {fileID: 114484504811090230}
   m_Layer: 5
   m_Name: Placeholder
-  m_TagString: Untagged
+  m_TagString: SpecialsScreen
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -144,7 +144,7 @@ GameObject:
   - component: {fileID: 114667482843005252}
   m_Layer: 5
   m_Name: Text
-  m_TagString: Untagged
+  m_TagString: SpecialsScreen
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -161,7 +161,7 @@ GameObject:
   - component: {fileID: 114081682722209304}
   m_Layer: 5
   m_Name: Text
-  m_TagString: Untagged
+  m_TagString: SpecialsScreen
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -176,7 +176,7 @@ GameObject:
   - component: {fileID: 224555030384747328}
   m_Layer: 5
   m_Name: SpecialList
-  m_TagString: Untagged
+  m_TagString: SpecialsScreen
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -193,7 +193,7 @@ GameObject:
   - component: {fileID: 114662625340406674}
   m_Layer: 5
   m_Name: Text
-  m_TagString: Untagged
+  m_TagString: SpecialsScreen
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -211,7 +211,7 @@ GameObject:
   - component: {fileID: 114267389237087278}
   m_Layer: 5
   m_Name: InputField
-  m_TagString: Untagged
+  m_TagString: SpecialsScreen
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -228,7 +228,7 @@ GameObject:
   - component: {fileID: 114279156635691304}
   m_Layer: 5
   m_Name: Text
-  m_TagString: Untagged
+  m_TagString: SpecialsScreen
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -246,7 +246,7 @@ GameObject:
   - component: {fileID: 114329855331504874}
   m_Layer: 5
   m_Name: InputField
-  m_TagString: Untagged
+  m_TagString: SpecialsScreen
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -263,7 +263,7 @@ GameObject:
   - component: {fileID: 114339104214755072}
   m_Layer: 5
   m_Name: Text
-  m_TagString: Untagged
+  m_TagString: SpecialsScreen
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -280,7 +280,7 @@ GameObject:
   - component: {fileID: 114849543826813672}
   m_Layer: 5
   m_Name: Text
-  m_TagString: Untagged
+  m_TagString: SpecialsScreen
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -297,7 +297,7 @@ GameObject:
   - component: {fileID: 114989116556725800}
   m_Layer: 5
   m_Name: Placeholder
-  m_TagString: Untagged
+  m_TagString: SpecialsScreen
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -314,7 +314,7 @@ GameObject:
   - component: {fileID: 114806436067784540}
   m_Layer: 5
   m_Name: AgiPanel
-  m_TagString: Untagged
+  m_TagString: SpecialsScreen
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -331,7 +331,7 @@ GameObject:
   - component: {fileID: 114685742192792500}
   m_Layer: 5
   m_Name: LckPanel
-  m_TagString: Untagged
+  m_TagString: SpecialsScreen
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -349,7 +349,7 @@ GameObject:
   - component: {fileID: 114871546535362400}
   m_Layer: 5
   m_Name: InputField
-  m_TagString: Untagged
+  m_TagString: SpecialsScreen
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -366,7 +366,7 @@ GameObject:
   - component: {fileID: 114832295421062628}
   m_Layer: 5
   m_Name: EndPanel
-  m_TagString: Untagged
+  m_TagString: SpecialsScreen
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -384,7 +384,7 @@ GameObject:
   - component: {fileID: 114972309869714060}
   m_Layer: 5
   m_Name: InputField
-  m_TagString: Untagged
+  m_TagString: SpecialsScreen
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -401,7 +401,7 @@ GameObject:
   - component: {fileID: 114486034978526518}
   m_Layer: 5
   m_Name: Placeholder
-  m_TagString: Untagged
+  m_TagString: SpecialsScreen
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -418,7 +418,7 @@ GameObject:
   - component: {fileID: 114046961938414842}
   m_Layer: 5
   m_Name: Text
-  m_TagString: Untagged
+  m_TagString: SpecialsScreen
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -435,7 +435,7 @@ GameObject:
   - component: {fileID: 114592785223340194}
   m_Layer: 5
   m_Name: Text
-  m_TagString: Untagged
+  m_TagString: SpecialsScreen
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -453,7 +453,7 @@ GameObject:
   - component: {fileID: 114413597243436114}
   m_Layer: 5
   m_Name: InputField
-  m_TagString: Untagged
+  m_TagString: SpecialsScreen
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -470,7 +470,7 @@ GameObject:
   - component: {fileID: 114919168828008348}
   m_Layer: 5
   m_Name: Placeholder
-  m_TagString: Untagged
+  m_TagString: SpecialsScreen
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -487,7 +487,7 @@ GameObject:
   - component: {fileID: 114147014868122484}
   m_Layer: 5
   m_Name: Text
-  m_TagString: Untagged
+  m_TagString: SpecialsScreen
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -504,7 +504,7 @@ GameObject:
   - component: {fileID: 114544484968796868}
   m_Layer: 5
   m_Name: PerPanel
-  m_TagString: Untagged
+  m_TagString: SpecialsScreen
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -521,7 +521,7 @@ GameObject:
   - component: {fileID: 114169739750687860}
   m_Layer: 5
   m_Name: Placeholder
-  m_TagString: Untagged
+  m_TagString: SpecialsScreen
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -538,7 +538,7 @@ GameObject:
   - component: {fileID: 114669857451084842}
   m_Layer: 5
   m_Name: Text
-  m_TagString: Untagged
+  m_TagString: SpecialsScreen
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -555,7 +555,7 @@ GameObject:
   - component: {fileID: 114061145142202594}
   m_Layer: 5
   m_Name: Placeholder
-  m_TagString: Untagged
+  m_TagString: SpecialsScreen
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -572,7 +572,7 @@ GameObject:
   - component: {fileID: 114775368265478688}
   m_Layer: 5
   m_Name: Text
-  m_TagString: Untagged
+  m_TagString: SpecialsScreen
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -589,7 +589,7 @@ GameObject:
   - component: {fileID: 114600007491171460}
   m_Layer: 5
   m_Name: Placeholder
-  m_TagString: Untagged
+  m_TagString: SpecialsScreen
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -606,7 +606,7 @@ GameObject:
   - component: {fileID: 114619267108727030}
   m_Layer: 5
   m_Name: ChaPanel
-  m_TagString: Untagged
+  m_TagString: SpecialsScreen
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -623,7 +623,7 @@ GameObject:
   - component: {fileID: 114700054512679096}
   m_Layer: 5
   m_Name: Text
-  m_TagString: Untagged
+  m_TagString: SpecialsScreen
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2692,7 +2692,7 @@ RectTransform:
   m_GameObject: {fileID: 1602515713884262}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 224737902830767302}
   - {fileID: 224054391757181382}
@@ -2811,7 +2811,7 @@ RectTransform:
   m_GameObject: {fileID: 1114440363839728}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 224139632857685638}
   - {fileID: 224548145470543028}
@@ -2831,7 +2831,7 @@ RectTransform:
   m_GameObject: {fileID: 1870500942067398}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 224977494660871792}
   - {fileID: 224031870561989676}
@@ -2983,7 +2983,7 @@ RectTransform:
   m_GameObject: {fileID: 1971993562352282}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 224441231455593630}
   - {fileID: 224300820234280960}
