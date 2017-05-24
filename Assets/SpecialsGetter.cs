@@ -16,7 +16,6 @@ public class SpecialsGetter : MonoBehaviour
         {
             GetValue(mainObject.GetComponent<Text>());
         }
-
     }
 
     void GetValue(Text value)

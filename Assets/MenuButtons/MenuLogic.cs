@@ -1,16 +1,25 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
+using UnityEngine.UI;
 
-public class MenuLogic : MonoBehaviour {
+public class MenuLogic : MonoBehaviour
+{
+    private Button [] menuButtons;
 
-	// Use this for initialization
-	void Start () {
-		
-	}
-	
-	// Update is called once per frame
-	void Update () {
-		
-	}
+    void Awake()
+    {
+        menuButtons = GetComponentsInChildren<Button>();
+        foreach (Button menuBtn in menuButtons)
+        {
+            menuBtn.onClick.AddListener(delegate { TaskOnClick(menuBtn); });
+        }
+    }
+
+    void TaskOnClick(Button clickedBtn)
+    {
+        foreach (Button menuBtn in menuButtons)
+        {
+            menuBtn.enabled = true;
+        }
+        clickedBtn.enabled = false;
+    }
 }
